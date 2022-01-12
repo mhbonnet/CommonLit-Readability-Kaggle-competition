@@ -1,4 +1,4 @@
-# Kaggle8 repository - CommonLit Readability Kaggle competition
+# Repository for the CommonLit Readability Kaggle competition
   
 This repository contains different notebooks created for the Kaggle competition : [CommonLit Readability](https://www.kaggle.com/c/commonlitreadabilityprize).
 
